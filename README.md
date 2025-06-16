@@ -49,3 +49,17 @@ A simple Python-based tool to monitor and verify the integrity of files by gener
     --> MISSING: File was deleted or moved
 
     --> NEW FILE: File wasn't present during original scan
+
+--> Hashes.json
+    This file is created automatically in store mode. It acts as a snapshot of your files at a specific point in time, storing each file’s SHA-256 hash.
+
+    Example:
+
+    {
+       "test/leo.txt": "0d35eff369a74254d4f09daab428a3f1d3425d06c2e6206050882ee54ad618f1"
+    }
+
+    Key: Path to the file
+    Value: SHA-256 hash of the file’s contents
+
+    In check mode, the script loads this file and compares the saved hashes against the current ones to detect any changes.
