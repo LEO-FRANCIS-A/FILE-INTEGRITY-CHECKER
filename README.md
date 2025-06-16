@@ -72,7 +72,7 @@ OUTPUT SCREENSHOTS:
 
 --> UNCHANGED FILE
     This shows an example of a file that has not changed since the last scan. The current hash matches the stored hash
-    https://github.com/LEO-FRANCIS-A/FILE-INTEGRITY-CHECKER/issues/1#issuecomment-2976490730
+    ![Image](https://github.com/user-attachments/assets/0c6ce6cb-5cdb-474c-994e-1903ff35b0d5)
 
 --> FILE MODIFIED
     Indicates that the contents of a file have been altered. The hash no longer matches the one stored in hashes.json
