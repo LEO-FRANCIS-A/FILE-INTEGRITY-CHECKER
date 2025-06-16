@@ -65,6 +65,7 @@ A simple Python-based tool to monitor and verify the integrity of files by gener
     In check mode, the script loads this file and compares the saved hashes against the current ones to detect any changes.
 
 OUTPUT SCREENSHOTS:
+
 --> HASHES STORED
     This shows the output after running the script in store mode. It indicates that all file hashes have been saved into hashes.json
     https://github.com/LEO-FRANCIS-A/FILE-INTEGRITY-CHECKER/issues/1#issue-3149832648
