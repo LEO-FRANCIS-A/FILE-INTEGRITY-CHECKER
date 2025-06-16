@@ -76,9 +76,10 @@ UNCHANGED FILE
     
 ![Image](https://github.com/user-attachments/assets/0c6ce6cb-5cdb-474c-994e-1903ff35b0d5)
 
---> FILE MODIFIED
-    Indicates that the contents of a file have been altered. The hash no longer matches the one stored in hashes.json
-    https://github.com/LEO-FRANCIS-A/FILE-INTEGRITY-CHECKER/issues/1#issuecomment-2976489457
+FILE MODIFIED
+--> Indicates that the contents of a file have been altered. The hash no longer matches the one stored in hashes.json
+    
+![Image](https://github.com/user-attachments/assets/c2d396fc-ed8e-4fce-91a1-1204ea2ef24e)
 
 --> FILE MISSING
     This file was present during the initial hash storage but is now missing or has been moved.
