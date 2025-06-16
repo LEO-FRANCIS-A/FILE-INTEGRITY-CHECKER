@@ -70,4 +70,18 @@ OUTPUT SCREENSHOTS:
     https://github.com/LEO-FRANCIS-A/FILE-INTEGRITY-CHECKER/issues/1#issue-3149832648
 
 --> UNCHANGED FILE
+    This shows an example of a file that has not changed since the last scan. The current hash matches the stored hash
+    https://github.com/LEO-FRANCIS-A/FILE-INTEGRITY-CHECKER/issues/1#issuecomment-2976490730
+
+--> FILE MODIFIED
+    Indicates that the contents of a file have been altered. The hash no longer matches the one stored in hashes.json
+    https://github.com/LEO-FRANCIS-A/FILE-INTEGRITY-CHECKER/issues/1#issuecomment-2976489457
+
+--> FILE MISSING
+    This file was present during the initial hash storage but is now missing or has been moved.
+    https://github.com/LEO-FRANCIS-A/FILE-INTEGRITY-CHECKER/issues/1#issuecomment-2976488604
+
+--> NEW FILE DETECTED
+    A new file that wasn't present during the original store operation is now detected during the check phase
+    https://github.com/LEO-FRANCIS-A/FILE-INTEGRITY-CHECKER/issues/1#issuecomment-2976490156
     
