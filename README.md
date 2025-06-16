@@ -68,7 +68,8 @@ OUTPUT SCREENSHOTS:
 
 --> HASHES STORED
     This shows the output after running the script in store mode. It indicates that all file hashes have been saved into hashes.json
-    https://github.com/LEO-FRANCIS-A/FILE-INTEGRITY-CHECKER/issues/1#issue-3149832648
+    
+![Image](https://github.com/user-attachments/assets/7f40e159-ab67-4940-b873-406eac0f0854)
 
 --> UNCHANGED FILE
     This shows an example of a file that has not changed since the last scan. The current hash matches the stored hash
