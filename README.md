@@ -81,9 +81,10 @@ FILE MODIFIED
     
 ![Image](https://github.com/user-attachments/assets/c2d396fc-ed8e-4fce-91a1-1204ea2ef24e)
 
---> FILE MISSING
-    This file was present during the initial hash storage but is now missing or has been moved.
-    https://github.com/LEO-FRANCIS-A/FILE-INTEGRITY-CHECKER/issues/1#issuecomment-2976488604
+FILE MISSING
+--> This file was present during the initial hash storage but is now missing or has been moved.
+    
+![Image](https://github.com/user-attachments/assets/58531993-e93a-4516-b1e6-da7555d76246)
 
 NEW FILE DETECTED
 --> A new file that wasn't present during the original store operation is now detected during the check phase
